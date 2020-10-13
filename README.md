@@ -12,4 +12,4 @@ Create an AI model (using both SensHagen and Copernicus satellite data) that pro
 
 - Function with a sparse sensor network.
 
-
+The deep learning model folder holds the python notebook file for our AI model's code.
